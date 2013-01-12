@@ -23,7 +23,6 @@
     <version>2.4-SNAPSHOT</version>
   </parent>
 
-  <groupId>org.sonatype.nexus</groupId>
   <artifactId>nexus-compat</artifactId>
 
   <description>Classes/Components for keeping Nexus compatible with older versions</description>

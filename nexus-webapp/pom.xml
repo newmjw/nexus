@@ -86,7 +86,7 @@
     <dependency>
       <groupId>org.sonatype.nexus.plugins</groupId>
       <artifactId>nexus-restlet1x-plugin</artifactId>
-      <version>${project.version}</version>
+      <version>${project.version}</version><!--$NO-MVN-MAN-VER$-->
       <classifier>bundle</classifier>
       <type>zip</type>
       <scope>test</scope>
@@ -95,7 +95,7 @@
     <dependency>
       <groupId>org.sonatype.nexus.plugins</groupId>
       <artifactId>nexus-lvo-plugin</artifactId>
-      <version>${project.version}</version>
+      <version>${project.version}</version><!--$NO-MVN-MAN-VER$-->
       <classifier>bundle</classifier>
       <type>zip</type>
       <scope>test</scope>
@@ -113,7 +113,6 @@
     <dependency>
       <groupId>org.sonatype.nexus.plugins.ldap</groupId>
       <artifactId>nexus-ldap-realm-plugin</artifactId>
-      <version>${project.version}</version>
       <classifier>bundle</classifier>
       <type>zip</type>
       <scope>test</scope>
@@ -140,7 +139,7 @@
     <dependency>
       <groupId>org.sonatype.nexus.plugins</groupId>
       <artifactId>nexus-indexer-lucene-plugin</artifactId>
-      <version>${project.version}</version>
+      <version>${project.version}</version><!--$NO-MVN-MAN-VER$-->
       <classifier>bundle</classifier>
       <type>zip</type>
       <scope>test</scope>

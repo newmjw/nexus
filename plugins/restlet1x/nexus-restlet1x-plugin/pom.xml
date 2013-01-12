@@ -159,7 +159,7 @@
     <dependency>
       <groupId>org.sonatype.security.realms</groupId>
       <artifactId>security-xml-realm</artifactId>
-      <version>${plexus-security.version}</version>
+      <version>${plexus-security.version}</version><!--$NO-MVN-MAN-VER$-->
       <scope>test</scope>
       <classifier>tests</classifier>
     </dependency>
